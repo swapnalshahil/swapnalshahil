@@ -27,7 +27,7 @@
 <br/>
 
 [![Twitter: eulersgamma](https://img.shields.io/twitter/follow/eulersgamma?style=social)](https://twitter.com/eulersgamma)
-[![Linkedin: swapnalshahil](https://img.shields.io/badge/-swapnalshahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swapnalshahil/k)](https://www.linkedin.com/in/swapnalshahil/k)
+[![Linkedin: swapnalshahil](https://img.shields.io/badge/-swapnalshahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swapnalshahil/)](https://www.linkedin.com/in/swapnalshahil/)
 [![GitHub swapnalshahil](https://img.shields.io/github/followers/swapnalshahil?label=follow&style=social)](https://github.com/swapnalshahil)
 [![website](https://img.shields.io/badge/PortfolioWebsite-swapnalshahil.github.io-2648ff?style=flat-square&logo=google-chrome)](https://swapnalshahil.github.io/)
 
