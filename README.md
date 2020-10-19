@@ -6,7 +6,6 @@
 
 
 <br/>
-<br/>
 
 [![Twitter: eulersgamma](https://img.shields.io/twitter/follow/eulersgamma?style=social)](https://twitter.com/eulersgamma)
 [![Linkedin: swapnalshahil](https://img.shields.io/badge/-swapnalshahil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swapnalshahil/)](https://www.linkedin.com/in/swapnalshahil/)
@@ -15,29 +14,30 @@
 
 
 <a href="https://github.com/swapnalshahil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnalshahil&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnalshahil&theme=light&hide_langs_below=1" />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/swapnalshahil">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnalshahil&show_icons=true&theme=dark&line_height=27" alt="Swapnal's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnalshahil&show_icons=true&theme=light&line_height=27" alt="Swapnal's github stats"/>
 </a>
-
+<br/>
+<br/>
 <div align="center">
 <a href="https://twitter.com/eulersgamma">
   <img  alt="Swapnal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/swapnalshahil/">
   <img  alt="Swapnal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://github.com/swapnalshahil">
   <img alt="Swapnal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://t.me/swapnalshahil">
   <img  alt="Swapnal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://instagram.com/eulersgamma/">
   <img  alt="Swapnal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/swapnal.sahil.1/">
   <img  alt="Swapnal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
