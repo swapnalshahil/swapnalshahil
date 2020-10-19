@@ -15,28 +15,30 @@
 
 
 <a href="https://github.com/swapnalshahil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnalshahil&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnalshahil&theme=dark&hide_langs_below=1" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=swapnalshahil&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<a href="https://github.com/swapnalshahil">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnalshahil&show_icons=true&theme=dark&line_height=27" alt="Swapnal's github stats"/>
+</a>
 
 <div align="center">
 <a href="https://twitter.com/eulersgamma">
-  <img align="left" alt="Swapnal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img  alt="Swapnal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/swapnalshahil/">
-  <img align="left" alt="Swapnal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img  alt="Swapnal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/swapnalshahil">
-  <img align="left" alt="Swapnal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img alt="Swapnal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/swapnalshahil">
-  <img align="left" alt="Swapnal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img  alt="Swapnal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://instagram.com/eulersgamma/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img  alt="Swapnal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/swapnal.sahil.1/">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img  alt="Swapnal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 </div>
