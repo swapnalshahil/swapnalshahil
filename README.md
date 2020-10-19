@@ -7,7 +7,7 @@
 <a href="https://twitter.com/eulersgamma">
   <img align="left" alt="Swapnal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/swapnalshahil/k">
+<a href="https://www.linkedin.com/in/swapnalshahil/">
   <img align="left" alt="Swapnal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/swapnalshahil">
