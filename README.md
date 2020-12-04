@@ -40,6 +40,9 @@
 </a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/swapnal.sahil.1/">
   <img  alt="Swapnal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>&nbsp;&nbsp;
+ <a href="https://dev.to/swapnalshahil">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Swapnal Shahil's DEV Profile" height="30" width="30">
 </a>
 </div>
 
