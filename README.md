@@ -1,14 +1,11 @@
 ### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=swapnalshahil alt=swapnalshahil/></p>
-
-### Wanna stalk me :question::point_right: [Click Here](https://swapnalshahil.github.io/)
 [![Twitter: eulersgamma](https://img.shields.io/twitter/follow/eulersgamma?style=social)](https://twitter.com/eulersgamma)
+<br/>
+### Wanna stalk me :question::point_right: [Click Here](https://swapnalshahil.github.io/)
 
 <br/>
-
-
-
 
 
 <a href="https://github.com/swapnalshahil">
