@@ -3,14 +3,9 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=swapnalshahil alt=swapnalshahil/></p>
 
 [![Twitter: eulersgamma](https://img.shields.io/twitter/follow/eulersgamma?style=social)](https://twitter.com/eulersgamma)
-
-<br/>
-
 ### Wanna stalk me :question::point_right: [Click Here](https://swapnalshahil.github.io/)
 
 <br/>
-
-
 <a href="https://github.com/swapnalshahil">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnalshahil&theme=light&hide_langs_below=1" />
 </a>
