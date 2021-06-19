@@ -18,9 +18,9 @@
 <a href="https://github.com/swapnalshahil">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swapnalshahil&show_icons=true&theme=light&line_height=25" alt="Swapnal's github stats"/>
 </a> 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnalshahil&layout=compact" />
-</a><p/><br/>
+</a><p/><br/> -->
 
 
 ---
