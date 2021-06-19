@@ -26,8 +26,8 @@
 ---
 
 ### Medium Blogs ✍🏻
-<a target="_blank" href="https://medium.com/scorelab/journey-to-google-summer-of-code-2021-7ead13c15609"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@swapnalshahil/0" alt="Recent Article 0">
-<a target="_blank" href="https://medium.com/scorelab/google-summer-of-code-openmf-week-1-4022fb270a79"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@swapnalshahil/1" alt="Recent Article 1">
+<a target="_blank" href="https://medium.com/scorelab/google-summer-of-code-openmf-week-1-4022fb270a79"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@swapnalshahil/0" alt="Recent Article 0">
+<a target="_blank" href="https://medium.com/scorelab/journey-to-google-summer-of-code-2021-7ead13c15609"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@swapnalshahil/1" alt="Recent Article 1">
  
 ---
  <br/>
