@@ -26,8 +26,8 @@
 ---
 
 ### Medium Blogs ✍🏻
-<a target="_blank" href="https://swapnalshahil.medium.com/b-tech-2nd-year-at-iit-guwahati-100706fcce3a"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@swapnalshahil/0" alt="Recent Article 0">
-<a target="_blank" href="https://medium.com/scorelab/google-summer-of-code-openmf-week-2-698d49fab4ec"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@swapnalshahil/1" alt="Recent Article 1">
+<a target="_blank" href="https://swapnalshahil.medium.com/"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@swapnalshahil/0" alt="Recent Article 0">
+<!-- <a target="_blank" href="https://medium.com/scorelab/google-summer-of-code-openmf-week-2-698d49fab4ec"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@swapnalshahil/1" alt="Recent Article 1"> -->
  
 ---
  <br/>
