@@ -3,12 +3,13 @@
 
 ---
 
-- 🔭 I’m currently working with [SCoRe Lab](http://scorelab.org/) organization under Google Summer of Code 2021.
+<!-- - 🔭 I’m currently working with [SCoRe Lab](http://scorelab.org/) organization under Google Summer of Code 2021. -->
+- 🏆 Google Summer of Code 2021 [SCoRe Lab](https://summerofcode.withgoogle.com/projects/#4809878826123264)
 - 🎓 I’m a junior pursuing my Bachelors in Chemical Science and Technology at IIT Guwahati.
 - 🌱 I’m currently learning everything about mobile forensics. 👨🏻‍🎓
 - 👯 I’m looking to collaborate on Open-Source projects and Internship.
 - 🤟🏻 I’m a good observer and fast learner.
-- 🤔 Interested in Chemistry, Science, Algorithms, Data Structure, Web Development,and Open-Source projects.
+- 🤔 Interested in Chemistry, Science, Algorithms, Software Development, Web Development,and Open-Source projects.
 - 📫 How to reach me: swapnalsahil@gmail.com
 
 ---
