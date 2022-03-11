@@ -4,6 +4,7 @@
 ---
 
 <!-- - 🔭 I’m currently working with [SCoRe Lab](http://scorelab.org/) organization under Google Summer of Code 2021. -->
+- 🧑🏻‍🏫 Google Summer of Code 2022 Mentor [SCoRe Lab](https://scorelab.org/gsoc/)
 - 🏆 Google Summer of Code 2021 [SCoRe Lab](https://summerofcode.withgoogle.com/archive/2021/projects/6260374466199552/)
 - 🎓 I’m a junior pursuing my Bachelors in Chemical Science and Technology at IIT Guwahati.
 - 🌱 I’m currently learning everything about Life. 👨🏻‍🎓
