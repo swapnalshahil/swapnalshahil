@@ -18,7 +18,7 @@ I'm an undergraduate student at IIT Guwahati 🏛 pursuing Bachelors 🎓 in Che
 <!-- - 🌱 &nbsp; I’m currently learning everything about Life. 👨🏻‍🎓 -->
 - 🧑🏻‍🏫 &nbsp; Google Summer of Code 2022 Mentor [SCoRe Lab](https://summerofcode.withgoogle.com/programs/2022/organizations/score-lab)
 - 🏆 &nbsp; Google Summer of Code 2021 [SCoRe Lab](https://summerofcode.withgoogle.com/archive/2021/projects/6260374466199552/)
-- 👯 &nbsp; I’m looking to collaborate on Open-Source projects and Internship.
+- 👯 &nbsp; I’m looking to collaborate on Open-Source projects and Full time role as a Software Engineer.
 - 🤟🏻 &nbsp; I’m a good observer and fast learner.
 - 🤔 &nbsp; Interested in Chemistry, Science, Algorithms, Software Development, Web Development,and Open-Source projects.
 - 📫 &nbsp; How to reach me: swapnalsahil@gmail.com
