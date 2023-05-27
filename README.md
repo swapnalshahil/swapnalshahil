@@ -29,20 +29,20 @@ I'm an undergraduate student at IIT Guwahati 🏛 pursuing Bachelors 🎓 in CST
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
-<details>	
+<!-- <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swapnalshahil&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnalshahil&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details>
+</details> -->
 
-<details>	
+<!-- <details>	
   <summary><b>✍  Medium Blogs</b></summary>
 
   <br />
   <a target="_blank" href="https://swapnalshahil.medium.com/"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@swapnalshahil/0" alt="Recent Article 0">
-</details>
+</details> -->
  
  
 <!-- ### GitHub Stats 📈
