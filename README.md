@@ -37,6 +37,10 @@ I'm an undergraduate student at IIT Guwahati 🏛 pursuing Bachelors 🎓 in CST
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnalshahil&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details> -->
 
+<!-- <a href="https://cloud.appwrite.io/card/648015fae3ae92a520a2">
+	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=648015fae3ae92a520a2" alt="Appwrite Cloud Card" />
+</a> -->
+
 <!-- <details>	
   <summary><b>✍  Medium Blogs</b></summary>
 
