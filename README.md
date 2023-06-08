@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Swapnal Shahil](https://swapnalshahil.github.io/)
+## Hey 👋, I'm [Swapnal Shahil](https://www.swapnalshahil.com)
 <!-- <p align="left"> <img src=https://komarev.com/ghpvc/?username=swapnalshahil alt=swapnalshahil/></p> -->
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/swapnalshahil)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://swapnalshahil.github.io/)
