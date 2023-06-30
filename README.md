@@ -9,7 +9,6 @@
  ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=swapnalshahil&style=flat-square&color=0088cc)
 
 
-
 I'm an undergraduate student at IIT Guwahati 🏛 pursuing Bachelors 🎓 in CST. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. 
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/swapnalshahil/swapnalshahil/master/gifs/coder.gif" />
@@ -31,13 +30,13 @@ I'm an undergraduate student at IIT Guwahati 🏛 pursuing Bachelors 🎓 in CST
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
-<!-- <details>	
+<details>	
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swapnalshahil&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnalshahil&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</details> -->
+  
+[![Swapnal's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=swapnalshahil\&show_icons=true\&theme=default#gh-light-mode-only)](https://github.com/swapnalshahil/github-readme-stats#responsive-card-theme#gh-light-mode-only)
+</details> 
 
 <!-- <a href="https://cloud.appwrite.io/card/648015fae3ae92a520a2">
 	<img width="350" src="https://cloud.appwrite.io/v1/cards/cloud?userId=648015fae3ae92a520a2" alt="Appwrite Cloud Card" />
